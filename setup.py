@@ -8,7 +8,7 @@ with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
 setup(
     name='zarenacord.py',
     author='Bravestone',
-    version='2.0.0',
+    version='2.0.1',
     url='https://github.com/Zarenalabs/zarenacord',
     description='A mirror package for zarenacord. Please install that instead.',
     license='MIT',
